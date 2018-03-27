@@ -1,1 +1,1 @@
-Crud application creating Trello cards.
+Front-end of CRUD application creating Trello cards.
